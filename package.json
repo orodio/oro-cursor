@@ -1,6 +1,6 @@
 {
   "name": "oro-cursor",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "prep cursors for oro-get and oro-set",
   "main": "index.js",
   "repository": "github.com/orodio/oro-cursor",
